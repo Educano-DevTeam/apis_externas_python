@@ -18,8 +18,8 @@ TOKEN_URL = (
 )
 
 # Credenciais da OpenSky Network
-CLIENT_ID = "michael27-api-client"
-CLIENT_SECRET = "WdSrRKYHvIP5EcmJsgvgjH8Qp6LJUKG3"
+CLIENT_ID = "<client_id>"
+CLIENT_SECRET = "<client_secret>"
 
 BRASIL = {
     "lamin": -34.0,
